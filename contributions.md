@@ -8,8 +8,8 @@
 | Tinashe N Mutsvigi| N02645041Y | Tinashe789 | research |
 | Tatenda L Takaendisa| N02640628E | Leeroy-03 | Applications of containers |
 | Tafadzwa B Gwangwava| N02642447X | Bossgee20 |  Applicationsof containers|
-| Nyasha T Dzapasi| N02641039R | apriltha25th| Disadvantages of Containers |
-| Russell T Machingura| N02640247R| To be filled | Disadvantages of Containers |
+| Nyasha T Dzapasi| N02641039R | apriltha25th| Research |
+| Russell T Machingura| N02640247R| To be filled | Research |
 | Mhande Tungamirai| N02644018P| maxwell-2005|  Research|
 | Member 8| To be filled | To be filled | To be filled |
 | Member 9| To be filled | To be filled | To be filled |
