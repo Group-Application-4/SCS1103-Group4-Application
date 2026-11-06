@@ -13,7 +13,7 @@
 | Mhande Tungamirai| N02644018P| maxwell-2005|  Research|
 | Kabheki Ratidzai E| N02641287W | MsTee-3352 | Research |
 | Muzhinji Tapiwanashe| N02646931X | Nashe-OnGit | Research | 
-| Member 10| To be filled | To be filled |  To be filled|
+| Tawanda M Chidembo| N02654074M | N02654074M | Research|
 | Member 11| To be filled | To be filled | To be filled |
 | Member 12| To be filled | To be filled | To be filled |
 | Member 13| To be filled | To be filled |  To be filled|
