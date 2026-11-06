@@ -4,7 +4,7 @@
 
 | Member | Student Number | GitHub Username | Role |
 |---|---|---|---|
-| Life N Chikomo| N02640802Q | To be filled |  To be filled|
+| Life N Chikomo| N02640802Q | Group-Application-4|  Research|
 | Member 2| To be filled | To be filled | To be filled |
 | Member 3| To be filled | To be filled | To be filled |
 | Member 4| To be filled | To be filled |  To be filled|
