@@ -14,7 +14,7 @@
 | Kabheki Ratidzai E| N02641287W | MsTee-3352 | Research |
 | Muzhinji Tapiwanashe| N02646931X | Nashe-OnGit | Research | 
 | Tawanda M Chidembo| N02654074M | chtawanda | Build|
-| Member 11| To be filled | To be filled | To be filled |
+| Daniel A Nyamusoro| N02641231X | Anoe-thaDev | Designer |
 | Member 12| To be filled | To be filled | To be filled |
 | Member 13| To be filled | To be filled |  To be filled|
 | Member 14| To be filled | To be filled | To be filled |
