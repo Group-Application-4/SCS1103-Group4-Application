@@ -6,7 +6,7 @@
 |---|---|---|---|
 | Life N Chikomo| N02640802Q | Group-Application-4|  Research|
 | Tinashe N Mutsvigi| N02645041Y | Tinashe789 | research |
-| Tatenda L Takaendisa| N02640628E | Leeroy-03 | Research |
+| Tatenda L Takaendisa| N02640628E | Leeroy-03 | Designer |
 | Tafadzwa B Gwangwava| N02642447X | Bossgee20 |  Designer|
 | Nyasha T Dzapasi| N02641039R | apriltha25th| Research |
 | Russell T Machingura| N02640247R| To be filled | Research |
