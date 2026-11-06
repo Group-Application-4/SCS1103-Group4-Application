@@ -1,4 +1,4 @@
-# POS – GROUP CONTRIBUTIONS
+8# POS – GROUP CONTRIBUTIONS
 
 ## SCS1103 Group Project
 
@@ -10,7 +10,7 @@
 | Tafadzwa B Gwangwava| N02642447X | Bossgee20 |  Applicationsof containers|
 | Nyasha T Dzapasi| N02641039R | apriltha25th| Disadvantages of Containers |
 | Russell T Machingura| N02640247R| To be filled | Disadvantages of Containers |
-| Member 7| To be filled | To be filled |  To be filled|
+| Mhande Tungamirai| N02644018P| maxwell-2005|  Research|
 | Member 8| To be filled | To be filled | To be filled |
 | Member 9| To be filled | To be filled | To be filled |
 | Member 10| To be filled | To be filled |  To be filled|
