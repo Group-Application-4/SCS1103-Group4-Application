@@ -6,8 +6,8 @@
 |---|---|---|---|
 | Life N Chikomo| N02640802Q | Group-Application-4|  Research|
 | Tinashe N Mutsvigi| N02645041Y | Tinashe789 | research |
-| Tatenda L Takaendisa| N02640628E | Leeroy-03 | Applications of containers |
-| Tafadzwa B Gwangwava| N02642447X | Bossgee20 |  Applicationsof containers|
+| Tatenda L Takaendisa| N02640628E | Leeroy-03 | Research |
+| Tafadzwa B Gwangwava| N02642447X | Bossgee20 |  Research|
 | Nyasha T Dzapasi| N02641039R | apriltha25th| Research |
 | Russell T Machingura| N02640247R| To be filled | Research |
 | Mhande Tungamirai| N02644018P| maxwell-2005|  Research|
