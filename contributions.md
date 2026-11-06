@@ -1,4 +1,4 @@
-8# POS – GROUP CONTRIBUTIONS
+98# POS – GROUP CONTRIBUTIONS
 
 ## SCS1103 Group Project
 
@@ -11,7 +11,7 @@
 | Nyasha T Dzapasi| N02641039R | apriltha25th| Research |
 | Russell T Machingura| N02640247R| To be filled | Research |
 | Mhande Tungamirai| N02644018P| maxwell-2005|  Research|
-| Member 8| To be filled | To be filled | To be filled |
+| Kabheki Ratidzai E| N02641287W | MsTee-3352 | Research |
 | Member 9| To be filled | To be filled | To be filled |
 | Member 10| To be filled | To be filled |  To be filled|
 | Member 11| To be filled | To be filled | To be filled |
