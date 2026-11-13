@@ -9,7 +9,7 @@
 | Tatenda L Takaendisa| N02640628E | Leeroy-03 | Designer |
 | Tafadzwa B Gwangwava| N02642447X | Bossgee20 |  Designer|
 | Nyasha T Dzapasi| N02641039R | apriltha25th| Build|
-| Russell T Machingura| N02640247R| To be filled | Presenter |
+| Russell T Machingura| N02640247R| weez-da-real | Presenter |
 | Mhande Tungamirai| N02644018P| maxwell-2005|  Research|
 | Kabheki Ratidzai E| N02641287W | MsTee-3352 | Research |
 | Muzhinji Tapiwanashe| N02646931X | Nashe-OnGit | Presenter | 
