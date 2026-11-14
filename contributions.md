@@ -8,7 +8,7 @@
 | Tinashe N Mutsvigi| N02645041Y | Tinashe789 | research |
 | Tatenda L Takaendisa| N02640628E | Leeroy-03 | Application |
 | Mhande Tungamirai M| N02644018P | maxwell-2005 |  Research|
-| Member 5| To be filled | To be filled | To be filled |
+|Tawanda Chidembo M| N02654074M | chtawanda | Build |
 | Member 6| To be filled | To be filled | To be filled |
 | Member 7| To be filled | To be filled |  To be filled|
 | Member 8| To be filled | To be filled | To be filled |
